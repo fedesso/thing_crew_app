@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "38378913923",
+    "project_id": "thethingcrewapp",
+    "storage_bucket": "thethingcrewapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38378913923:android:4531e242e0655f1cf61bb6",
+        "android_client_info": {
+          "package_name": "com.example.thing_crew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38378913923-j9ccunft2uqi7np6enoh37qe2kepvta1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi4kzM_HsQ7Szt_5slQnExmXZPBoXNtyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38378913923-j9ccunft2uqi7np6enoh37qe2kepvta1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
