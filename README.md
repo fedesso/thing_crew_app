@@ -1,6 +1,6 @@
 # thing_crew_app
 
-A new Flutter application.
+Mobile App to represent a narrative timeline for John Carpenter's 'The Thing,' 1982 using Flutterfire.
 
 ## Getting Started
 
